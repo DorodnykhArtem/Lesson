@@ -17,3 +17,18 @@ console.log(console.log (hui))
 const artem = 'temochka'
 
 console.log(artem)
+
+const object = {
+    a: 15,
+    b: 20
+}
+
+console.log(object)
+
+const copyOfObject = object
+
+copyOfObject.c = '30'
+
+console.log(copyOfObject)
+
+const dd = 5
