@@ -34,3 +34,13 @@ console.log(copyOfObject)
 delete copyOfObject.c
 
 console.log(copyOfObject)
+// Учусь добавлять через квадратные скобки
+copyOfObject["c"] = "Снова ожил!"
+
+console.log(copyOfObject)
+
+copyOfObject["copyOfObject"] = "3"
+
+copyOfObject["c"] = "30"
+
+console.log(copyOfObject)
