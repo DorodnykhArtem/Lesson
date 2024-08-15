@@ -31,4 +31,6 @@ copyOfObject.c = '30'
 
 console.log(copyOfObject)
 
-const dd = 5
+delete copyOfObject.c
+
+console.log(copyOfObject)
