@@ -23,3 +23,11 @@ const dunduk = {
 
 console.log(dunduk)
 // УРОК 16
+// УРОК 17
+const testMethod = {
+    svoistvo: 999,
+    method () {
+        console.log('shariki')
+    }
+}
+testMethod.method ()
