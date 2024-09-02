@@ -81,4 +81,4 @@ function test2 (отсекация) {
 
 const otsek = test2(penis)
 console.log(penis)
-console.log(otsek)
+console.log(otsek) 
